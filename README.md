@@ -1,77 +1,93 @@
-# 🚀 OIBSIP – Oasis Infobyte Internship Projects
+# 📊 Data Analytics Portfolio
 
-Welcome to my Oasis Infobyte Internship repository.
+Welcome to my Data Analytics portfolio.
 
-This repository contains all the projects completed during my **Data Analytics Internship** at Oasis Infobyte.
-
----
+This repository contains practical projects focused on data analysis, customer behavior, data visualization, and extracting meaningful insights from real-world datasets.
 
 ## 👩‍💻 About Me
 
-**Neha Aarasid**
+Hi, I'm Neha, a Computer Engineering student with an interest in Data Analytics, Python, SQL, Data Visualization, and Machine Learning.
 
-Final Year Computer Engineering Student
+Working with datasets to clean, analyze, visualize, and understand meaningful patterns in data.
 
-Interested in Data Analytics, Python, SQL, Machine Learning and Data Visualization.
+## 📂 Projects
 
----
+### 🛒 1. Retail Sales Data – Exploratory Data Analysis
 
-## 📂 Completed Projects
+An exploratory data analysis project focused on understanding retail sales patterns and customer behavior.
 
-### 📊 Level 1
+**Key Analysis:**
+- Data cleaning and preprocessing
+- Missing value analysis
+- Descriptive statistics
+- Gender-wise sales analysis
+- Age group analysis
+- Category-wise sales analysis
+- Monthly sales trends
+- Correlation analysis
+- Data visualization
 
-#### ✅ Task 1 – Retail Sales EDA
-
-Folder:
-`DataAnalytics-L1-EDARetailSales`
-
-**Skills Used**
+**Tools & Technologies:**
 - Python
 - Pandas
 - NumPy
 - Matplotlib
 - Seaborn
-- Exploratory Data Analysis
 
-Status: ✔ Completed
+📁 Project Folder: `Retail-Sales-EDA`
 
 ---
 
-#### ✅ Task 2 – Customer Segmentation Analysis
+### 👥 2. Customer Segmentation Analysis
 
-Folder:
-`DataAnalytics-L1-CustomerSegmentation`
+A customer segmentation project using K-Means Clustering to group customers based on income and spending behavior.
 
-**Skills Used**
+**Key Steps:**
+- Data exploration
+- Data preprocessing
+- Feature selection
+- Feature scaling using StandardScaler
+- Elbow Method
+- K-Means clustering
+- Cluster visualization
+- Customer segment analysis
+- Marketing recommendations
+
+**Tools & Technologies:**
 - Python
 - Pandas
-- K-Means Clustering
-- StandardScaler
+- NumPy
 - Matplotlib
 - Seaborn
 - Scikit-learn
 
-Status: ✔ Completed
+📁 Project Folder: `Customer-Segmentation-Analysis`
 
 ---
 
-## 🛠 Technologies Used
+## 🛠️ Skills & Technologies
 
 - Python
 - Pandas
 - NumPy
+- SQL
 - Matplotlib
 - Seaborn
 - Scikit-learn
 - Jupyter Notebook
+- Data Cleaning
+- Exploratory Data Analysis
+- Data Visualization
+- Machine Learning Basics
 
----
+## 🎯 Areas of Interest
 
-## 🎯 Internship Track
-
-**Domain:** Data Analytics
-
-**Organization:** Oasis Infobyte
+- Data Analytics
+- Exploratory Data Analysis
+- Data Visualization
+- Customer Analytics
+- Machine Learning
+- Business Intelligence
 
 ---
 

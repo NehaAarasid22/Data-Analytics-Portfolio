@@ -34,7 +34,7 @@ An exploratory data analysis project focused on understanding retail sales patte
 - Matplotlib
 - Seaborn
 
-📁 Project Folder: `Retail-Sales-EDA`
+📁 Project Folder: `DataAnalytics-L1-EDA-RetailSales`
 
 ---
 
@@ -61,7 +61,7 @@ A customer segmentation project using K-Means Clustering to group customers base
 - Seaborn
 - Scikit-learn
 
-📁 Project Folder: `Customer-Segmentation-Analysis`
+📁 Project Folder: `DataAnalytics-L1-EDA-RetailSales`
 
 ---
 

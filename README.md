@@ -61,7 +61,7 @@ A customer segmentation project using K-Means Clustering to group customers base
 - Seaborn
 - Scikit-learn
 
-📁 Project Folder: `DataAnalytics-L1-EDA-RetailSales`
+📁 Project Folder: `DataAnalytics-L1-CustomerSegmentation`
 
 ---
 

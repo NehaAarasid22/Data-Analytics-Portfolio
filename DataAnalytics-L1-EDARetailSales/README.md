@@ -1,9 +1,6 @@
 # 📊 Retail Sales EDA
 
-This project is part of my **Oasis Infobyte Data Analytics Internship**.
-
-The objective of this project is to perform **Exploratory Data Analysis (EDA)** on a Retail Sales dataset to uncover customer purchasing behavior, sales trends, and business insights using Python.
-
+This project focuses on performing **Exploratory Data Analysis (EDA)** on a Retail Sales dataset to uncover customer purchasing behavior, sales trends, and business insights using Python.
 ---
 
 ## 🎯 Project Objective
@@ -58,16 +55,6 @@ The objective of this project is to perform **Exploratory Data Analysis (EDA)** 
 - Monthly sales showed noticeable fluctuations throughout the year.
 - Customer purchasing behavior varies across age groups.
 - Correlation analysis helped identify relationships between numerical features.
-
----
-
-## 🚀 Future Improvements
-
-- Build an interactive dashboard using Power BI or Tableau.
-- Add advanced statistical analysis.
-- Apply predictive analytics for future sales forecasting.
-
----
 
 ---
 

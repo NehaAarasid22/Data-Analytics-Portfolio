@@ -1,8 +1,8 @@
 # 👥 Customer Segmentation Analysis using K-Means Clustering
 
-This project is part of my **Oasis Infobyte Data Analytics Internship**.
+This project focuses on segmenting customers into different groups based on their **Annual Income** and **Spending Score** using the **K-Means Clustering** algorithm.
 
-The objective of this project is to segment customers into different groups based on their purchasing behaviour using the K-Means Clustering algorithm. Customer segmentation helps businesses understand different customer types and create targeted marketing strategies.
+Customer segmentation helps businesses understand different customer groups and develop targeted marketing strategies.
 
 ---
 
@@ -71,15 +71,6 @@ The objective of this project is to segment customers into different groups base
 - Create targeted promotional campaigns for each customer segment.
 - Focus marketing efforts based on customer purchasing behaviour.
 
----
-
-## 🚀 Future Improvements
-
-- Perform RFM (Recency, Frequency, Monetary) Analysis using real transaction data.
-- Build an interactive Power BI dashboard.
-- Compare K-Means with DBSCAN and Hierarchical Clustering.
-
----
 
 ---
 
